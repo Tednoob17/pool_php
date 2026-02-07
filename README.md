@@ -1,6 +1,6 @@
 # Epitech PHP Pool
 
-This repository contains the exercises completed during the PHP pool at Epitech. The pool is a intensive coding bootcamp where students learn PHP fundamentals, object-oriented programming, and web development basics.
+This repository contains the exercises completed during the PHP pool at Epitech. The pool is an intensive coding bootcamp where students learn PHP fundamentals, object-oriented programming, and web development basics.
 
 ## 📚 Description
 
